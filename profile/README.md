@@ -2,7 +2,7 @@
 
 **Multidisciplinary Environment for Scientific Advancement**
 
-<img src="MESA-logo-light-1024.png" alt="MESA — stacked-diamond mark" width="140" align="right" />
+<img src="MESA-logo-transparent-1024.png" alt="MESA — stacked-diamond mark" width="140" align="right" />
 
 An open source, agentic AI–driven platform that securely connects publicly funded research data via curated and indexed metadata — reducing time to discovery.
 
