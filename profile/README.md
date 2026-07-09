@@ -37,7 +37,7 @@ Battelle NEON · NAIRR Pilot · ACCESS-CI · TACC · OSN · CyVerse · Jetstream
 
 ## Team
 
-Led by the **University of Arizona** with the **University of North Carolina at Chapel Hill** and the **University of New Mexico**.
+Led by the **University of New Mexico** with the **University of North Carolina at Chapel Hill** and the **University of Arizona** .
 
 ## Funding
 
