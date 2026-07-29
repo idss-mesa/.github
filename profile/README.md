@@ -41,7 +41,7 @@ Led by the **University of New Mexico** with the **University of North Carolina 
 
 ## Funding
 
-Supported by the U.S. National Science Foundation under **[NSF Award #2608717](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2608717)** IDSS (Integrated Data Systems & Services).
+Supported by the U.S. National Science Foundation under **[NSF Award #2632685](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2632685)** IDSS (Integrated Data Systems & Services).
 
 ---
 
